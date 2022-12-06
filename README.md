@@ -12,6 +12,7 @@
 - 📫 How to reach me **spmztaha101@gmail.com**
 
 <h3 align="left">My Absolute Favorites:</h3>
+
 - 💻 I love exploring new tech stack and building cool stuffs.
 
 - 🎮 Playing computer games.
