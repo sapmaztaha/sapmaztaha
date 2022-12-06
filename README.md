@@ -11,11 +11,13 @@
 
 - 📫 How to reach me **spmztaha101@gmail.com**
 
-<h3 align="left">My Absolute Favorites:</h3>
+<h3 align="left">My Hobbies:</h3>
 
 - 💻 I love exploring new tech stack and building cool stuffs.
 
 - 🎮 Playing computer games.
+
+- 🤙 Motor Sports (F1)
 
 
 <h3 align="left">Connect with me:</h3>
