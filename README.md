@@ -7,7 +7,7 @@
 
 - 🚀 I’m currently learning **Full Stack Web Development**
 
-- 👨🏻‍💻 Most of my projects are available on [https://github.com/sapmaztaha](https://github.com/sapmaztaha)
+- 👨🏻‍💻 Most of my projects are available on [https://sapmaztaha.github.io/](https://sapmaztaha.github.io/)
 
 - 📫 How to reach me **spmztaha101@gmail.com**
 
