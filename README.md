@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burhan Taha Sapmaz</h1>
 <h3 align="center">Jr.React Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapmaztaha&label=Profile%20views&color=0e75b6&style=flat" alt="sapmaztaha" /> </p>
+
 
 - 🛠 I’m currently working with **HTML5,CSS,JavaScript,React**
 
